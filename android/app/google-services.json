@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572134187829",
+    "project_id": "task-management-thiran",
+    "storage_bucket": "task-management-thiran.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572134187829:android:dcc3c94282b212847ce27c",
+        "android_client_info": {
+          "package_name": "com.keerthi77459.task_automation_and_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsm5ymDVoi0gIy5A3NgrgOInbwry5IBns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
